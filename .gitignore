@@ -1,0 +1,37 @@
+*.d
+*.o
+*.obj
+*.out
+*.dep
+*.hex
+*.bin
+*.i
+*.htm
+*.crf
+*.iex
+*.dep
+*.lst
+*.map
+*.uvguix*
+*.uvoptx
+JLinkLog.txt
+JlinkSettings.ini
+*.asf
+*.asm
+*.scvd
+*.axf
+*.elf
+*.lnp
+ArInp.Scr
+_bld.txt
+buildlog_*.txt
+RTE_Components.h
+
+#ignor folder
+# RTE/
+project/Objects
+project/Listings
+
+#VS Coder
+.vscode
+*.code-workspace
